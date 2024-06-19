@@ -1,0 +1,32 @@
+html {
+  body{ 
+    background-color: black;
+    color: white ;
+    position: relative
+  }
+
+  height: 100%;
+  width: 100%;
+}
+
+b{
+  font-weight: bold;
+  background-color: transparent;
+  color: white;
+  border: 0;
+  font-size: 50px;
+  position: absolute;
+  top: 230px;
+  left: 300px;
+}
+
+button {
+  background-color: transparent;
+  color: white;
+  border: 0;
+  font-weight: bold;
+  font-size: 50px;
+  position: absolute;
+  top: 500px;
+  left: 900px;
+}
