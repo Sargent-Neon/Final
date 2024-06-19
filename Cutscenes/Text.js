@@ -14,7 +14,7 @@ async function loadFileAndPrintToConsole(url) {
 
 function nextScene(location){
   if(line == lines.length){
-    window.location.href = "/"+location;
+    window.location.href = "/Final/"+location;
   }
   else{
     document.getElementById("text").innerHTML = lines[line];
