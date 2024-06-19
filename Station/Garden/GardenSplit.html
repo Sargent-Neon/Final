@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html translate="no">
+<div id="tiledBackground" class="op" ; onmouseover="begin()"></div>
+
+<head>
+  <title>magazin</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <link href="GardenSplit.css" rel="stylesheet" type="text/css" />
+  <link href="/Grid.css" rel="stylesheet" type="text/css" />
+</head>
+
+</html>
+
+<div style="position:absolute; left:400px; top:600px;">
+  <img onmouseover="Next(this)" class="op" border="0" src="/BackgroundImages/BackButton.png" width="470px" ; height="auto" ;>
+</div>
+
+<script>
+  var move = 0;
+  function begin(x) {
+    move = 1;
+  }
+  function Next(x) {
+    if (move == 1) {
+      window.location.href = "Fountain.html";
+    }
+  }
+</script>
+
+<script type="text/javascript">
+  window.history.forward();
+  function noBack() {
+    window.history.forward();
+  }
+</script>
+
+<script src="/Cookie.js"></script>
+<script src="Clue3.js"></script>
+<div id="grid" class="gallery"></div>
+
+<a href = "GardenBench.html">
+<button class="B1 op"></button>
+</a>
+
+<a href = "GardenPatch.html">
+<button class="B2 op"></button>
+</a>
+
+<body onLoad="noBack();" onpageshow="if (event.persisted) noBack();" onUnload="">
+</body>
+
+<div style="position:absolute; left:550px; top:150px; -webkit-transform: scaleX(-1); transform: scaleX(-1);">
+  <img id="NPC12" class="op" border="0" src="/NCPs/NPC12_Passerby.webp" onclick="chat()"; width="200px" ; height="auto" ;>
+</div>
+
+<div style="position:absolute; left:1100px; top:25px;">
+  <img id="Inventory" class="m" onclick="Inv()" ; src="/BackgroundImages/IB.png" width="100px" ; height="auto" ;>
+</div>

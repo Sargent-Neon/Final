@@ -1,0 +1,43 @@
+html {
+  body {
+    background-color: black;
+    color: white;
+    position: relative
+  }
+
+  height: 100%;
+  width: 100%;
+}
+
+
+#tiledBackground {
+  background-image: url(/BackgroundImages/Garden2.jpg);
+  background-size: 1000px;
+  width: 1000px;
+  height: 670px;
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 150px;
+}
+
+.B1 {
+  background-color: transparent;
+  width: 50px;
+  padding: 50px;
+  border: 0;
+  cursor: pointer;
+  position: absolute;
+  top: 200px;
+  left: 300px;
+}
+
+.B2 {
+  background-color: transparent;
+  width: 50px;
+  padding: 50px;
+  border: 0;
+  cursor: pointer;
+  position: absolute;
+  top: 200px;
+  left: 1000px;
+}

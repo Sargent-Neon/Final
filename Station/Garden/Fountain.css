@@ -1,0 +1,43 @@
+html {
+  body {
+    background-color: black;
+    color: white;
+    position: relative
+  }
+
+  height: 100%;
+  width: 100%;
+}
+
+
+#tiledBackground {
+  background-image: url(/BackgroundImages/Fountain.jpg);
+  background-size: 850px;
+  width: 1000px;
+  height: 670px;
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 200px;
+}
+
+.B1 {
+  background-color: transparent;
+  width: 50px;
+  padding: 50px;
+  border: 0;
+  cursor: pointer;
+  position: absolute;
+  top: 370px;
+  left: 950px;
+}
+
+.B2 {
+  background-color: transparent;
+  width: 50px;
+  padding: 50px;
+  border: 0;
+  cursor: pointer;
+  position: absolute;
+  top: 400px;
+  left: 200px;
+}
