@@ -1,0 +1,54 @@
+html {
+  body {
+    background-color: black;
+    color: white;
+    position: relative
+  }
+
+  height: 100%;
+  width: 100%;
+}
+
+
+#tiledBackground {
+  background-image: url(/BackgroundImages/CafeWashroom.jpg);
+  background-size: 500px;
+  width: 700px;
+  height: 670px;
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 390px;
+}
+
+.B1 {
+  background-color: transparent;
+  width: 50px;
+  padding: 50px;
+  border: none;
+  background: none;
+  cursor: pointer;
+  position: absolute;
+  top: 0px;
+  left: 15px;
+}
+
+.B2 {
+  background-color: transparent;
+  width: 50px;
+  height: 800px;
+  padding: 50px;
+  border: none;
+  background: none;
+  cursor: pointer;
+  position: absolute;
+  top: 0px;
+  left: 1113px;
+}
+
+.card{
+  width: 30px;
+  height: auto;
+  position: absolute;
+  left: 400px;
+  top: 540px;
+}
