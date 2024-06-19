@@ -1,0 +1,19 @@
+p {
+  font-weight: bold;
+  background-color: tan;
+  color: black;
+  border: 5px;
+  font-size: 20px;
+  position: absolute;
+  top: 520px;
+  left: 420px;
+  width: 500px;
+  height: 100px;
+  border-radius: 30px;
+  border-color: black;
+  border-style: solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 6;
+}
