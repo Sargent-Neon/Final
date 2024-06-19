@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html translate="no">
+  <link href="Format.css" rel="stylesheet" type="text/css" />
+  <b id="text"></b>
+    <button onclick="nextScene('Cutscenes/Dialogue/BreakdownDialogue.html')">Suivant -></button>
+  <script src="Text.js"></script>
+  <script>
+    window.onload = loadFileAndPrintToConsole('Bus.txt');
+  </script>
+</html>
+
+<script type="text/javascript">
+  window.history.forward();
+  function noBack() {
+    window.history.forward();
+  }
+</script>
+
+<body onLoad="noBack();" onpageshow="if (event.persisted) noBack();" onUnload="">
+</body>
