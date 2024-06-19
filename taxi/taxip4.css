@@ -1,0 +1,65 @@
+html {
+  body {
+    background-color: black;
+    color: white;
+    position: relative
+  }
+
+  height: 100%;
+  width: 100%;
+}
+
+#tiledBackground {
+  background-image: url(/itemsImages/Map/Turn4.png);
+  background-size: 600px;
+  width: 900px;
+  height: 500px;
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 300px;
+}
+
+.B1 {
+  border: none;
+  background-color: white;
+   border-color: #2bff00;
+  padding: 14px 28px;
+  font-size: 20px;
+  cursor: pointer;
+  position: absolute;
+  top: 570px;
+  left: 400px;
+}
+.B2 {
+  border: none;
+  background-color: white;
+   border-color: #2bff00;
+  padding: 14px 28px;
+  font-size: 20px;
+  cursor: pointer;
+  position: absolute;
+  top: 570px;
+  left: 50px;
+}
+.B3 {
+  border: none;
+  background-color: white;
+   border-color: #2bff00;
+  padding: 14px 28px;
+  font-size: 20px;
+  cursor: pointer;
+  position: absolute;
+  top: 570px;
+  left: 800px;
+}
+.B4 {
+  border: none;
+  background-color: white;
+   border-color: #2bff00;
+  padding: 14px 28px;
+  font-size: 20px;
+  cursor: pointer;
+  position: absolute;
+  top: 570px;
+  left: 1100px;
+}

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html translate="no">
+<div id="tiledBackground" ; onmouseover="begin()"></div>
+
+<head>
+  <title>taxi</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <link href="taxip8.css" rel="stylesheet" type="text/css" />
+</head>
+
+</html>
+
+<a href="taxip9.html">
+  <button class="B1" type="button">À gauche, puis à gauche.</button>
+</a>
+<a href="/Cutscenes/wrongwaytaxi/taxirong.html">
+  <button class="B2" type="button">ournez à gauche</button>
+</a>
+<a href="/Cutscenes/wrongwaytaxi/taxirong.html">
+  <button class="B3" type="button">Demie-tour.</button>
+</a>
+<a href="/Cutscenes/wrongwaytaxi/taxirong.html">
+  <button class="B4" type="button">À gauche, puis à droite.</button>
+</a>
+
+<!---<back arrow>--->
+
+<script>
+  var move = 0;
+  function begin(x) {
+    move = 1;
+  }
+  function Next(x) {
+    if (move == 1) {
+      window.location.href = "";
+    }
+  }
+</script>
+
+<script type="text/javascript">
+  window.history.forward();
+  function noBack() {
+    window.history.forward();
+  }
+</script>
+<!---<end of back arrow >--->
