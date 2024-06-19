@@ -1,0 +1,22 @@
+html {
+  body {
+    background-color: black;
+    color: white;
+    position: relative
+  }
+
+  height: 100%;
+  width: 100%;
+}
+
+
+#tiledBackground {
+  background-image: url(/BackgroundImages/hotlebathroom.jpg);
+  background-size: 1150px;
+  width: 1200px;
+  height: 620px;
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 100px;
+  top: 0px;
+}

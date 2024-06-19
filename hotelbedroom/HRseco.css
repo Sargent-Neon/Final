@@ -1,0 +1,56 @@
+html {
+  body {
+    background-color: black;
+    color: white;
+    position: relative
+  }
+
+  height: 100%;
+  width: 100%;
+}
+
+
+#tiledBackground {
+  background-image: url(/BackgroundImages/HotelRoomHallway.jpg);
+  background-size: 600px;
+  width: 600px;
+  height: 670px;
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 380px;
+  top: 0px;
+}
+
+.Bathroom {
+  background-color: transparent;
+  width: 25px;
+  padding: 25px;
+  height: 390px;
+  border: none;
+  background: none;
+  cursor: pointer;
+  position: absolute;
+  top: 125px;
+  left: 880px;
+}
+
+.Hallway {
+  background-color: transparent;
+  width: 150px;
+  padding: 50px;
+  height: 390px;
+  border: none;
+  background: none;
+  cursor: pointer;
+  position: absolute;
+  top: 170px;
+  left: 600px;
+}
+
+button{
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-app-region: no-drag;
+  cursor: default;
+}
