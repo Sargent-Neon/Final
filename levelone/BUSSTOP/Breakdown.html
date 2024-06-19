@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html translate="no">
+<div id="tiledBackground" class="op" ; onmouseover="begin()"></div>
+
+<head>
+  <title> bus en panne</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <link href="Breakdown.css" rel="stylesheet" type="text/css" />
+  <link href="/Grid.css" rel="stylesheet" type="text/css" />
+</head>
+
+</html>
+<!---<back arrow>-->
+<div style="position:absolute; left:400px; top:600px; z-index:6 ;">
+  <img onmouseover="Next(this)" border="0" class="op" src="/BackgroundImages/BackButton.png" width="470px" ;
+    height="auto" ;>
+</div>
+
+<script>
+  var move = 0;
+  function begin(x) {
+    move = 1;
+  }
+  function Next(x) {
+    if (move == 1) {
+      window.location.href = "/levelone/breakdown/junction.html";
+    }
+  }
+</script>
+
+<script type="text/javascript">
+  window.history.forward();
+  function noBack() {
+    window.history.forward();
+  }
+</script>
+
+<body onLoad="noBack();" onpageshow="if (event.persisted) noBack();" onUnload="">
+</body>
+
+<script src="/Cookie.js"></script>
+<div id="grid" class="gallery"></div>
+<div id="InvBtn" style="position:absolute; left:1100px; top:25px;">
+</div>
+<div style="position:absolute; left:950px; top:320px; -webkit-transform: scaleX(-1); transform: scaleX(-1);">
+  <img id="NPC2_Mechanic" class="op" border="0" src="/NCPs/NPC2_Mechanic.png" width="150px" ; height="auto" ;>
+</div>
+<div style="position:absolute; left:740px; top:310px; -webkit-transform: scaleX(-1); transform: scaleX(-1);">
+  <img id="NPC9_BusDriver" class="op" border="0" src="/NCPs/NPC9_BusDriver.png" width="150px" ; height="auto" ;>
+</div>
