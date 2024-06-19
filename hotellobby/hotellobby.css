@@ -1,0 +1,64 @@
+html {
+  body {
+    background-color: black;
+    color: white;
+    position: relative
+  }
+
+  height: 100%;
+  width: 100%;
+}
+
+
+#tiledBackground {
+  background-image: url(/BackgroundImages/lobby.jpg);
+  background-size: 1220px;
+  width: 1220px;
+  height: 650px;
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 25px;
+  top: 10px;
+}
+
+.lobby {
+  background-color: transparent;
+  width: 50px;
+  padding: 50px;
+  border: none;
+  background: none;
+  cursor: pointer;
+  position: absolute;
+  top: 250px;
+  left: 550px;
+}
+
+.door {
+  background-color: transparent;
+  width: 50px;
+  padding: 50px;
+  border: none;
+  background: none;
+  cursor: pointer;
+  position: absolute;
+  top: 250px;
+  left: 150px;
+}
+
+.i1{
+  width: 100px;
+  height: auto;
+  position: absolute;
+  left: 900px;
+  top: 400px;
+  z-index: 2;
+}
+
+.card{
+  width: 30px;
+  height: auto;
+  position: absolute;
+  left: 1000px;
+  top: 510px;
+  z-index: 1;
+}

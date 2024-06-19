@@ -1,0 +1,38 @@
+html {
+  body {
+    background-color: black;
+    color: white;
+    position: relative
+  }
+
+  height: 100%;
+  width: 100%;
+}
+
+
+#tiledBackground {
+  background-image: url(/BackgroundImages/diningroom.jpg);
+  background-size: 1000px;
+  width: 1000px;
+  height: 600px;
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 100px;
+  top: 0px;
+}
+
+.card1 {
+  width: 15px;
+  height: auto;
+  position: absolute;
+  left:370px;
+  top: 330px;
+}
+
+.card2 {
+  width: 25px;
+  height: auto;
+  position: absolute;
+  left:980px;
+  top: 500px;
+}

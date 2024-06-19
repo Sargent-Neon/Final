@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html translate="no">
+<div id="tiledBackground" class="op" onmouseover="begin()"></div>
+
+<head>
+  <title>Dining Room</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <link href="hoteldiningroom.css" rel="stylesheet" type="text/css" />
+  <link href="/Grid.css" rel="stylesheet" type="text/css" />
+</head>
+
+</html>
+<!--<back  button>-->
+<div style="position:absolute; left:380px; top:600px;">
+  <img onmouseover="Next()" class="op" border="0" src="/BackgroundImages/BackButton.png" width="470px" ; height="auto"
+    ;>
+</div>
+
+<script>
+  var move = 0;
+  function begin() {
+    move = 1;
+  }
+  function Next() {
+    if (move == 1) {
+      window.location.href = "/hotellobby/hotellobby.html";
+    }
+  }
+</script>
+
+<script type="text/javascript">
+  window.history.forward();
+  function noBack() {
+    window.history.forward();
+  }
+</script>
+
+<body onLoad="noBack();" onpageshow="if (event.persisted) noBack();" onUnload="">
+</body>
+
+<img id="Two" class = "card1 op" src="/itemsImages/Two.png" onclick="create('Two', 'have')" onload="removeBtn('Two')">
+<img Id="King" class = "card2 op" src="/itemsImages/King.png" onclick="create('King', 'have')" onload="removeBtn('King')">
+
+<script src="/Cookie.js"></script>
+<div id="grid" class="gallery"></div>
+
+<div id="InvBtn" style="position:absolute; left:1100px; top:25px;">
+  </div>
