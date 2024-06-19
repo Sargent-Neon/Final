@@ -1,0 +1,21 @@
+html {
+  body {
+    background-color: black;
+    color: white;
+    position: relative
+  }
+
+  height: 100%;
+  width: 100%;
+}
+
+#tiledBackground {
+  background-image: url(/BackgroundImages/HotelBedroom.jpg);
+  background-size: 1000px;
+  width: 1200px;
+  height: 625px;
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 150px;
+  top: 2px;
+}
