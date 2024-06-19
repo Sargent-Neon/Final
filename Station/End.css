@@ -1,0 +1,52 @@
+html {
+  body {
+    background-color: black;
+    color: white;
+    position: relative
+  }
+
+  height: 100%;
+  width: 100%;
+}
+
+
+#tiledBackground {
+  background-image: url(/BackgroundImages/Train_Sleep_Room.jpg);
+  background-size: 500px;
+  width: 1220px;
+  height: 670px;
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 100px;
+}
+
+.B1 {
+  background-color: transparent;
+  width: 50px;
+  padding: 50px;
+  border-color: red;
+  cursor: pointer;
+  position: absolute;
+  top: 0px;
+  left: 15px;
+}
+
+.B2 {
+  background-color: transparent;
+  width: 50px;
+  height: 800px;
+  padding: 50px;
+  border-color: red;
+  cursor: pointer;
+  position: absolute;
+  top: 0px;
+  left: 1113px;
+}
+
+b{
+  color: white;
+  font-size: 60px;
+  position: absolute;
+  left: 700px;
+  top: 200px;
+}
