@@ -1,0 +1,4 @@
+You: Excusez-moi, avez-vous vu un chien quelque part ?
+Gardener: Non, mais j'ai entendu du bruit venant des buissons.
+Gardener: Je pense que le buisson avait des fleurs blanches.
+You: D'accord, merci.

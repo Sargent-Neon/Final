@@ -1,0 +1,11 @@
+You: Excusez-moi, mademoiselle.
+Aphrodite: ...
+You: Mademoiselle?
+Aphrodite: Oh, désolée, je ne vous avais pas vue là.
+You: Ce n'est pas grave. Savez-vous où est l'arrêt de bus ?
+Aphrodite: Oui, mais je suis dans une situation délicate.
+Aphrodite: Vous voyez, j'ai un spectacle ce soir, mais il semble que j'ai perdu certaines de mes cartes.
+Aphrodite: Je peux vous indiquer où se trouve l'arrêt de bus si vous m'aidez à retrouver mes cartes perdues.
+You: Combien de cartes avez-vous perdues ?
+Aphrodite: J'ai perdu une de chaque numéro, de l'as au roi. Elles sont probablement toutes sur cet étage.
+You: (J'espère que cela ne prendra pas trop de temps.)

@@ -1,0 +1,9 @@
+Receptionist: Bonjour monsieur.
+You: Bonjour, puis-je avoir un billet pour Londres, Angleterre s'il vous plaît ?
+Receptionist: Oui, bien sûr. Vous avez beaucoup de chance, monsieur, le train a été retardé.
+You: Oh, c'est super. À quelle heure part-il ?
+Receptionist: Il partira dans environ 20 minutes.
+You: Merci.
+Receptionist: Le train que vous cherchez est sur le quai 2.
+You: Merci encore.
+Receptionist: De rien, monsieur.

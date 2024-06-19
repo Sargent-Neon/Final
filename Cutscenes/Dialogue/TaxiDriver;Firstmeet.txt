@@ -1,0 +1,9 @@
+You: Salut, vous êtes disponible ?
+Driver: Ouais, vous devez aller quelque part ?
+You: Oui, pouvez-vous me conduire à la gare ?
+Driver: Bien sûr, vous avez une carte ?
+You: Pardon ?
+Driver: Vous avez une carte ? Mon GPS est mort et je ne suis pas doué pour mémoriser les directions.
+You: Mais je n'ai pas de carte.
+Driver: Eh bien, alors je ne peux pas vous aider.
+You: (Je suppose que je dois trouver une carte.)

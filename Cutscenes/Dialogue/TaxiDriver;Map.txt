@@ -1,0 +1,5 @@
+Driver: Vous avez la carte maintenant ?
+You: Oui, c'est bon, allons-y.
+Driver: D'accord, vous me direz par où aller.
+Driver: Ne vous inquiétez pas si vous vous perdez, je peux nous ramener ici pour réessayer.
+You: D'accord.

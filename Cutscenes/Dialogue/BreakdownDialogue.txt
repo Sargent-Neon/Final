@@ -1,0 +1,11 @@
+You: Excusez-moi, qu'est-ce qui s'est passé ?
+Bus Driver: Oh, le bus est tombé en panne.
+You: Quoi ?
+Mechanic: Ouais, il semble que certaines des bougies d'allumage ont brûlé.
+You: Combien de temps vont prendre les réparations ?
+Mechanic: Probablement quelques heures.
+Bus Driver: Et il n'y a pas de bus de remplacement disponible.
+You: Zut ! Où sommes-nous actuellement ?
+Bus Driver: Nous sommes en ce moment en centre-ville.
+You: (Il devrait y avoir un taxi qui peut me prendre.)
+You: Merci.

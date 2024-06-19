@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html translate="no">
+  <link href="Taxi.css" rel="stylesheet" type="text/css" />
+  <b id="text"></b>
+    <button id="b" onclick="nextScene('taxi/taxip1.html')">Suivant -></button>
+  <script src="Taxi.js"></script>
+  <script>
+    window.onload = loadFileAndPrintToConsole('TaxiDriver;Map.txt');
+  </script>
+</html>
+
+<img id="Player" src="/NCPs/Player.png">
+<img id="NPC" src="/NCPs/NPC3_TaxiDriver.png">
+
+<script type="text/javascript">
+  window.history.forward();
+  function noBack() {
+    window.history.forward();
+  }
+</script>
+
+<body onLoad="noBack();" onpageshow="if (event.persisted) noBack();" onUnload="">
+</body>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html translate="no">
+  <link href="BusDia.css" rel="stylesheet" type="text/css" />
+  <b id="text"></b>
+    <button id="b" onclick="nextScene('levelone/BUSSTOP/Breakdown.html')">Suivant -></button>
+  <script src="BusDia.js"></script>
+  <script>
+    window.onload = loadFileAndPrintToConsole('BreakdownDialogue.txt');
+  </script>
+</html>
+
+<img id="Player" src="/NCPs/Player.png">
+<img id="NPC" src="/NCPs/NPC9_BusDriver.png">
+
+<script type="text/javascript">
+  window.history.forward();
+  function noBack() {
+    window.history.forward();
+  }
+</script>
+
+<body onLoad="noBack();" onpageshow="if (event.persisted) noBack();" onUnload="">
+</body>

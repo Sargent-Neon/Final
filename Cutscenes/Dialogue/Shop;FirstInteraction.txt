@@ -1,0 +1,9 @@
+You: Excusez-moi, savez-vous où sont les plans ?
+Shopper: Oh, désolé, j'ai le dernier. Mais je peux vous le donner si vous m'aidez.
+You: Bien sûr, de quoi s'agit-il ?
+Shopper: Vous voyez, le commerçant ne me laisse pas partir et je n'ai pas mon portefeuille sur moi.
+Shopkeeper: Oui, et vous ne quitterez pas mon champ de vision tant que vous n'aurez pas payé.
+Shopper: Vous voyez.
+You: D'accord. Où l'avez-vous laissé ?
+Shopper: Je pense l'avoir laissé dans le café à proximité.
+You: D'accord, je reviendrai.

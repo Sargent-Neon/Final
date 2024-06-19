@@ -1,0 +1,10 @@
+You: Excusez-moi, pourrais-je récupérer mon billet s'il vous plaît ?
+Old Man: Oh ça ? Bien sûr, mais pourriez-vous d'abord m'aider ?
+You: Uh, bien sûr. De quoi avez-vous besoin d'aide ?
+Old Man: Eh bien, vous voyez, j'ai perdu mon chien il n'y a pas longtemps.
+Old Man: Il m'est très cher.
+You: Donc vous voulez que j'aille chercher votre chien ?
+Old Man: Oui.
+You: D'accord, où l'avez-vous perdu ?
+Old Man: Je l'ai vu pour la dernière fois dans le jardin dehors.
+You: (Faisons ça rapidement.)

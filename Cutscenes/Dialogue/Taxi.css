@@ -1,0 +1,57 @@
+html {
+  body{ 
+    background-color: black;
+    color: white ;
+    position: relative
+  }
+
+  height: 100%;
+  width: 100%;
+}
+
+b{
+  font-weight: bold;
+  background-color: tan;
+  color: black;
+  border-radius: 20px;
+  border: 0;
+  width: 800px;
+  height: 150px;
+  font-size: 30px;
+  position: absolute;
+  top: 400px;
+  left: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 6;
+}
+
+button {
+  background-color: transparent;
+  color: white;
+  border: 0;
+  font-weight: bold;
+  font-size: 40px;
+  position: absolute;
+  top: 580px;
+  left: 800px;
+  z-index: 6;
+}
+
+#Player {
+  position: absolute;
+  width: 325px;
+  height: auto;
+  left: 200px;
+  top: 50px;
+}
+
+#NPC {
+  position: absolute;
+  width: 400px;
+  height: auto;
+  left: 600px;
+  top: 45px;
+}
+

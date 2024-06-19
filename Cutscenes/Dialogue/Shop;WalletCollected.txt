@@ -1,0 +1,10 @@
+Shopper: Oh, vous êtes de retour. Vous avez trouvé mon portefeuille ?
+You: Oui, le voici.
+Shopper: Merci. Voici la carte comme promis.
+You: Merci.
+Le Shopper part pour payer le Shopkeeper.
+Shopper: Voilà, tout est en ordre maintenant. Merci encore.
+You: Attendez, savez-vous où se trouve la gare ?
+Shopper: Oh, euh, non désolé.
+Shopkeeper: Peut-être que quelqu'un dans ce café sait. J'ai entendu parler d'une gare là-bas auparavant.
+You: Merci de me l'avoir dit.

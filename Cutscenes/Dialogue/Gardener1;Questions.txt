@@ -1,0 +1,6 @@
+You: Excusez-moi, avez-vous vu un chien quelque part ?
+Gardener: Oui, il est passé devant moi.
+You: Savez-vous où il est ?
+Gardener: Non, mais demandez à quelqu'un dans le parc.
+Gardener: Ils pourraient le savoir.
+You: D'accord, merci.

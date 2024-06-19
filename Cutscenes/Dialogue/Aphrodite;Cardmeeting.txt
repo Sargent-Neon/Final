@@ -1,0 +1,7 @@
+Aphrodite : Tu as trouvé toutes mes cartes. Merci.
+Tu : D'accord, pourrais-tu me dire où est l'arrêt de bus s'il te plaît ? Je suis en retard.
+Aphrodite : Oh, ouais.
+Aphrodite : Donc, tu veux sortir de l'hôtel, tourner à gauche et continuer tout droit.
+Aphrodite : Puis tourne à droite au deuxième carrefour. Tu devrais le trouver là.
+Tu : Merci.
+Je me suis précipité vers l'arrêt de bus, espérant ne pas avoir raté le bus.

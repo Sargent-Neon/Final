@@ -1,0 +1,3 @@
+You: Excusez-moi, avez-vous vu un chien quelque part ?
+Passerby: Je pense que oui. Je crois l'avoir vu près d'un banc.
+You: D'accord, merci.

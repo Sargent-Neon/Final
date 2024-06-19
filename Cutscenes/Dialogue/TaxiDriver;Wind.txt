@@ -1,0 +1,4 @@
+Taxi Driver: Oh, vous revoilà. Vous avez une carte ?
+You: Oui, je l'ai.
+Le vent souffle et je perds prise sur la carte.
+You: Non non non non.
