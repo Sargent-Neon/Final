@@ -10,7 +10,7 @@ html {
 }
 
 #tiledBackground {
-  background-image: url(/Final/BackgroundImages/HotelBedroom.jpg);
+  background-image: url(Final/BackgroundImages/HotelBedroom.jpg);
   background-size: 1000px;
   width: 1200px;
   height: 625px;
